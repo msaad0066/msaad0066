@@ -1,7 +1,7 @@
 <!--
   GitHub profile README for Muhammad Saad
   Setup: create a PUBLIC repo named exactly like your GitHub username, add this as README.md,
-  then replace YOUR_GITHUB_USERNAME (3 places in the Stats section + profile views badge).
+  then replace msaad0066 (3 places in the Stats section + profile views badge).
 -->
 
 <h1 align="center">Hi, I'm Muhammad Saad 👋</h1>
@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/m-saad0066"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://img.shields.io/badge/Karachi%2C%20Pakistan-555555?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
   <img src="https://img.shields.io/badge/Open%20to-Remote%20%26%20Relocation-2EA44F?style=for-the-badge" alt="Open to remote and relocation"/>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=512BD4&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=msaad0066&label=Profile%20views&color=512BD4&style=for-the-badge" alt="Profile views"/>
 </p>
 
 ---
@@ -136,12 +136,12 @@ I build REST APIs that web and mobile clients consume, enforce domain logic acro
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=msaad0066&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msaad0066&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=msaad0066&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
 ---
